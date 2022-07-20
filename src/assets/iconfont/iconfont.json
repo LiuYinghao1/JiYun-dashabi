@@ -1,0 +1,65 @@
+{
+  "id": "3534624",
+  "name": "jiyun",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "201099",
+      "name": "3.1待评价",
+      "font_class": "31daipingjia",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8148621",
+      "name": "优惠券",
+      "font_class": "youhuiquan",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "8312083",
+      "name": "公告",
+      "font_class": "gonggao",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "18267915",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e98d",
+      "unicode_decimal": 59789
+    },
+    {
+      "icon_id": "18267926",
+      "name": "接口配置",
+      "font_class": "jiekoupeizhi",
+      "unicode": "e990",
+      "unicode_decimal": 59792
+    },
+    {
+      "icon_id": "18267933",
+      "name": "卖家购物车",
+      "font_class": "maijiagouwuche",
+      "unicode": "e992",
+      "unicode_decimal": 59794
+    },
+    {
+      "icon_id": "19410758",
+      "name": "用户",
+      "font_class": "user",
+      "unicode": "e99e",
+      "unicode_decimal": 59806
+    },
+    {
+      "icon_id": "22758959",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "f7e4",
+      "unicode_decimal": 63460
+    }
+  ]
+}
